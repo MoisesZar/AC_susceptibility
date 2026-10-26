@@ -17,6 +17,9 @@ The AC susceptibility is obtained from the simulated time-dependent
 magnetization via direct time integration over one field cycle, with an
 optional FFT band-pass filter around the excitation frequency.
 
+MoisesZar
+moisesg.zarzoza@uclm.es
+
 ## Requirements
 
 - Python 3.9+
